@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  corenlp:
+    image: nlpbox/corenlp
+    ports:
+      - "9000:9000"
+    expose:
+      - "9000"

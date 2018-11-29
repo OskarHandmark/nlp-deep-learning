@@ -1,0 +1,8 @@
+sklearn
+numpy
+scipy
+pycorenlp
+requests
+keras
+tensorflow
+plac

@@ -6,3 +6,4 @@ requests
 keras
 tensorflow
 plac
+pandas

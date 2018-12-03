@@ -1,3 +1,9 @@
+# Prject specific
+model.h5
+features.json
+labels.json
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

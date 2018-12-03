@@ -3,7 +3,7 @@
 See https://backtick.se/blog/whatevs
 
 ## Installation
-Requires Docker, Tested with Python 3.6.2
+Requires Docker, Tested with Python 3.6.2. Note that Tensorflow does not support Python 3.7 yet.
 
 ```bash
 pip install -r req.txt

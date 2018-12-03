@@ -1,6 +1,8 @@
 # Deep learning for relation extraction example
 
-See https://backtick.se/blog/whatevs
+See https://backtick.se/blog/nlp-relation-extraction
+
+Proof of concept. Needs a larger training set.
 
 ## Installation
 Requires Docker, Tested with Python 3.6.2. Note that Tensorflow does not support Python 3.7 yet.
@@ -8,6 +10,7 @@ Requires Docker, Tested with Python 3.6.2. Note that Tensorflow does not support
 ```bash
 pip install -r req.txt
 ```
+
 
 ## Running
 ```bash
